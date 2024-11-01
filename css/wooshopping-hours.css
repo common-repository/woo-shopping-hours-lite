@@ -1,0 +1,20 @@
+
+/******FRONT CSS******/
+
+.wooshopping-table { border-collapse: collapse; border-spacing: 0; border: 1px solid #ddd; margin-bottom: 20px; width: 100%; }
+.wooshopping-table>thead:first-child>tr:first-child>th { border-top: 0; }
+.wooshopping-table>thead>tr>td,
+.wooshopping-table>thead>tr>th { border-bottom: 2px solid #ddd; vertical-align: bottom; }
+.wooshopping-table>tbody>tr>td,
+.wooshopping-table>tbody>tr>th,
+.wooshopping-table>thead>tr>td,
+.wooshopping-table>thead>tr>th,
+.wooshopping-table > thead > tr > th,
+.wooshopping-table > tbody > tr > th,
+.wooshopping-table > thead > tr > td,
+.wooshopping-table > tbody > tr > td { border: 1px solid #ddd; text-align: center; }
+
+.wooshopping-table>tbody>tr>td,
+.wooshopping-table>tbody>tr>th,
+.wooshopping-table>thead>tr>td,
+.wooshopping-table>thead>tr>th { border-top: 1px solid #ddd; line-height: 1.5; padding: 8px; vertical-align: top; }
